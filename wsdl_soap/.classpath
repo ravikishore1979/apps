@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="tests/src"/>
-	<classpathentry kind="lib" path="lib/qname.jar"/>
-	<classpathentry kind="lib" path="lib/wsdl4j.jar" sourcepath="/Users/ravik/tools/sources/wsdl4j-src-1.6.3.zip"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
