@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <mirrors>
+        <mirror>
+            <id>RO-Repo</id>
+            <name>RO-Repo</name>
+            <url>http://34.195.251.237:8081/nexus/repository/ro-snapshot/</url>
+            <mirrorOf>ro-snapshot</mirrorOf>
+        </mirror>
+    </mirrors>
+    <servers>
+        <server>
+            <id>ro-snapshots</id>
+            <username>ro-nexus-api</username>
+            <password>ro123</password>
+        </server>
+    </servers>
+</settings>
