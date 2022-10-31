@@ -15,5 +15,8 @@
             <username>ro-nexus-api</username>
             <password>ro123</password>
         </server>
+        <server>
+            <x>sdfsdf</x>
+        </server>
     </servers>
 </settings>
