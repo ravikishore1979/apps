@@ -15,10 +15,5 @@
             <username>ro-nexus-api</username>
             <password>ro123</password>
         </server>
-        <server>
-            <id>ro1</id>
-            <username>ro-api</username>
-            <password>ro123</password>
-        </server>
     </servers>
 </settings>
