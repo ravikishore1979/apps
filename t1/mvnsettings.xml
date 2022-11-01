@@ -14,10 +14,16 @@
             <url>http://34.195.251.237:8081/nexus/repository/ro-snapshot/</url>
             <mirrorOf>ro-snapshot</mirrorOf>
         </mirror>
+        <mirror>
+            <id>Repo24</id>
+            <name>Repo24</name>
+            <url>http://34.195.251.237:8081/nexus/repository/ro-snapshot/</url>
+            <mirrorOf>ro-snapshot-1</mirrorOf>
+        </mirror>
     </mirrors>
     <servers>
         <server>
-            <id>ro-snapshots-qa</id>
+            <id>ro-snapshots-12</id>
             <username>ro-nexus-api</username>
             <password>ro123</password>
         </server>
