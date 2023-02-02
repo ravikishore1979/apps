@@ -25,7 +25,7 @@
         <server>
             <id>ro-snapshots-12</id>
             <username>ro-nexus-api</username>
-            <password>ro123</password>
+            <password>ro123456</password>
         </server>
     </servers>
 </settings>
