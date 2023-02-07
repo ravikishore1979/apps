@@ -9,7 +9,7 @@
             <mirrorOf>ro-snapshot</mirrorOf>
         </mirror>
         <mirror>
-            <id>Repo23</id>
+            <id>Repo232345</id>
             <name>Repo23</name>
             <url>http://34.195.251.237:8081/nexus/repository/ro-snapshot/</url>
             <mirrorOf>ro-snapshot</mirrorOf>
